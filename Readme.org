@@ -1,12 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:10.916562
-#+TITLE: 三聖圓融觀門
-#+PROPERTY: CBETA_ID T45n1882
-#+PROPERTY: ID KR6e0099
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1882
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 三聖圓融觀門 / master
+#+DATE: 2015-11-26 14:17:39.532556
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@HARA|【大→原】   |
 
-<pb:KR6e0099_T_000-0671a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0099_001.txt][三聖圓融觀門 1]]
