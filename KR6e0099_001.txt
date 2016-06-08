@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:10.931013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 三聖圓融觀門
 #+PROPERTY: CBETA_ID T45n1882
 #+PROPERTY: ID KR6e0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1882
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0099_T_001-0671a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1882¶
-
- 三聖圓融觀門¶
+No. 1882¶
+三聖圓融觀門¶
 ¶
 沙門澄觀述¶
 
@@ -101,7 +100,7 @@ No.1882¶
 故《經》云：「無有如外智能證於如，亦無智外如¶
 為智所入。」
 
-又，法界寂照名止，寂而常照名觀。¶
+又，法界寂照名正，寂而常照名觀。¶
 觀窮數極，妙符乎寂，即定慧不二。又，即體之¶
 用曰智，即用之體曰理，即體用無二。是以文¶
 殊三事融通隱隱，即是普賢三事涉入重重，¶
