@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:10.931013
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 三聖圓融觀門
 #+PROPERTY: CBETA_ID T45n1882
 #+PROPERTY: ID KR6e0099
